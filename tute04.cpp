@@ -25,5 +25,14 @@ int main() {
   std::cout << "nCr = ";
   std::cout << nCr(n,r);
   std::cout << std::endl;
+  
+
+  int main(nCr)
+  {
+    int n, r;
+nCr = n!/ r!(n−r)!
+std::cout << "nCr = ";
+  std::cout << std::endl;
+  }
   return 0;
 }
